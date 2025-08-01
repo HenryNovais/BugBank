@@ -34,5 +34,5 @@ Este projeto foi desenvolvido com fins educacionais, para praticar:
 
 ## 📦 Clone o repositório
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone https://github.com/HenryNovais/BugBank.git
    
